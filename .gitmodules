@@ -1,3 +1,6 @@
 [submodule "Repositoriy"]
 	path = Repositoriy
 	url = https://github.com/funjockerIT/Repositoriy
+[submodule "laboratory2"]
+	path = laboratory2
+	url = https://github.com/spectreq666/laboratory2
